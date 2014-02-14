@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">ColorConverter</string>
+    <string name="action_settings">Settings</string>
+    <string name="result_id">*****Type in here*****</string>
+    <string name="convert_to_color">Convert-To-Color</string>
+    <string name="convert_to_hex">Convert-To-Hex</string>
+    <string name="display_id"/>
+</resources>
